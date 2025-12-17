@@ -1,7 +1,7 @@
 # our-work
 
 Done by:
-- Abdelrahman Elawady ⚡
-- Ibrahim Albarbari ⚡
+- Abdelrahman Elawady
+- Ibrahim Albarbari
 
-A very simple webpage using html, css, and js for displaying our LED panels
+A very simple static webpage using html, css, and js
